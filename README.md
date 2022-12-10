@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrsahmd
-- 👀 I’m interested in test automation and we development
+- 👀 I’m interested in test automation and web development
 - 🌱 I’m currently learning Playwright, Cypress
 
 <!---
